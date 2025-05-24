@@ -8,6 +8,13 @@ Le projet est divisé en deux grandes parties :
 
 ---
 
+## Installer les dépendances
+
+Installation des dépendances (avec pip)
+
+```bash
+pip install -r requirements.txt
+
 ## Lancement simple et rapide
 
 ```bash
