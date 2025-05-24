@@ -14,8 +14,10 @@ Installation des dépendances (avec pip)
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Lancement simple et rapide
 
 ```bash
 python app/main.py
+```
